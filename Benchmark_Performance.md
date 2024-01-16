@@ -33,9 +33,9 @@ points, it
 refines its walking skills, learning to
 avoid errors and progress more effectively.
 
-![TD3_BipedalWalker-v3_0_training_score.png](results%2FBipedalWalker-v3_run_2%2FTD3_BipedalWalker-v3_0_training_score.png)
-![TD3_BipedalWalker-v3_0_training_avg_score.png](results%2FBipedalWalker-v3_run_2%2FTD3_BipedalWalker-v3_0_training_avg_score.png)
-![testing_score.png](results%2FBipedalWalker-v3%2Ftesting_score.png)
+![TD3_BipedalWalker-v3_0_training_score.png](images%2Frun_3_training_score.png)
+![TD3_BipedalWalker-v3_0_training_avg_score.png](images%2Frun_3_training_avg_score.png)
+![testing_score.png](images%2Frun_3_test_score.png)
 
 ## Results Analysis
 
